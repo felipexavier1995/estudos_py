@@ -1,0 +1,1 @@
+Repositorio inclusivo para estudos sobre python
